@@ -1,1 +1,1 @@
-[![trophy](https://github-profile-trophy.vercel.app/?tech1savvy=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tech1savvy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
