@@ -2,6 +2,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,npm,notion,angular,apple,arch,arduino,atom,bash,bootstrap,git,docker,c,cpp,vim,clion,codepen,debian,discord,electron,emacs,express,figma,firebase,flutter,idea,java,jquery,kali,kotlin,latex,linux,md,lua,mysql,neovim,nix,obsidian,postgres,py,raspberrypi,react,rust,sass,sublime,svelte,swift,tailwind,threejs,ts,vscode,vue,wordpress,webstrom,windows,ubuntu" />
   </a>
 </p>
