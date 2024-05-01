@@ -7,4 +7,4 @@
 > Operating System Tutorials
 - [repo/os-box](https://github.com/tech1savvy/os-box)
 
-![linux](https://img.shields.io/badge/logo-Linux-blue?logo=linux&logoColor=white)
+![linux](https://img.shields.io/badge/‎_-Linux-blue?logo=linux&logoColor=white)
