@@ -1,10 +1,2 @@
-> Java Tutorials
-- [repo/java-box](https://github.com/tech1savvy/java-box)
-
-![java](https://badgen.net/badge/icon/java?icon=java&label
-)
-
-> Operating System Tutorials
-- [repo/os-box](https://github.com/tech1savvy/os-box)
-
+![java](https://badgen.net/badge/icon/java?icon=java&label)
 ![linux](https://img.shields.io/badge/‎_-linux-blue?logo=linux&logoColor=white)
