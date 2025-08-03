@@ -1,10 +1,12 @@
-
-
 <table>
   <tr>
     <td style="width: 66%;">
       [~ ./dotfiles](https://github.com/tech1savvy/dotfiles)
     </td>
+    <td style="width: 33%; text-align: center;">
+      [![](https://raw.githubusercontent.com/dch82/Nixpkgs-Badges/main/nixpkgs-badge-light.svg)](https://search.nixos.org/packages?size=1&show={{PACKAGENAME}})
+    </td>
+
     <td style="width: 33%; text-align: center;">
       <img 
         src="https://media.giphy.com/media/FmOV8SCJ5fa8M/giphy.gif" 
