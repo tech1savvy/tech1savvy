@@ -28,4 +28,17 @@
     </td>
   </tr>
 </table>
+<!-- Project / KeySensei -->
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/tech1savvy/key-sensei">~ ./key-sensie</a>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" alt="HTML5 Badge" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" alt="CSS3 Badge" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript Badge" />
+    </td>
+  </tr>
+</table>
 
