@@ -94,3 +94,15 @@
     </td>
   </tr>
 </table>
+<!-- Project / Django -->
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/tech1savvy/django">~ ./django</a>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white" alt="Django Badge" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" alt="Python Badge" />
+    </td>
+  </tr>
+</table>
