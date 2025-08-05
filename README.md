@@ -20,7 +20,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/tech1savvy/dsa">~ ./dsa</a>
+      <a href="https://github.com/tech1savvy/cpp">~ ./dsa</a>
     </td>
     <td>
       <a href="https://leetcode.com/tech1savvy/"><img src="https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=leetcode&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftech1savvy&logo=leetcode&logoColor=yellow" alt="LeetCode Badge" /></a>
