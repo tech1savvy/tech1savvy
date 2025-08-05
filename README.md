@@ -41,4 +41,17 @@
     </td>
   </tr>
 </table>
-
+<!-- Project / Handy-Man -->
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/tech1savvy/osms">~ ./handyman</a>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white" alt="PHP Badge" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white" alt="MySQL Badge" />
+      <img src="https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white" alt="MariaDB Badge" />
+      <img src="https://img.shields.io/badge/SQL-336791?style=plastic&logo=postgresql&logoColor=white" alt="SQL Badge" />
+    </td>
+  </tr>
+</table>
