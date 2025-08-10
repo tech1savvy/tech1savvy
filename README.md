@@ -1,22 +1,15 @@
 <table>
   <tr>
-    <a>
+    <td>
       <a href="https://github.com/tech1savvy/portfolio">
-        <img 
-                src="https://media.giphy.com/media/FmOV8SCJ5fa8M/giphy.gif" 
-                alt="GIF" 
-                style="width: 20%; height: auto;"
-              />
         ~/portfolio
       </a>
     </td>
     <td>
       <a href="https://www.linkedin.com/in/your-profile">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-      </a>
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
       <a href="https://www.youtube.com/channel/your-channel">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white" alt="YouTube Badge" />
-      </a>
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white" alt="YouTube Badge" /></a>
     </td>
   </tr>
 </table>
