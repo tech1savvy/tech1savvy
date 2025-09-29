@@ -51,18 +51,6 @@
     </td>
   </tr>
 </table>
-<!-- Project / Node.js -->
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/tech1savvy/nodejs">~ ./nodejs</a>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white" alt="Node.js Badge" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript Badge" />
-    </td>
-  </tr>
-</table>
 <!-- Project / Markdown Blog Generator -->
 <table>
   <tr>
@@ -73,18 +61,6 @@
       <img src="https://img.shields.io/badge/Next.js-000000?style=plastic&logo=next.js&logoColor=white" alt="Next.js Badge" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white" alt="TypeScript Badge" />
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white" alt="Tailwind CSS Badge" />
-    </td>
-  </tr>
-</table>
-<!-- Project / Django -->
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/tech1savvy/django">~ ./django</a>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white" alt="Django Badge" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" alt="Python Badge" />
     </td>
   </tr>
 </table>
