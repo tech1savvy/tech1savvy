@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/efb43c30-e932-42b9-ba86-3cb91c78709d/thumbnail" >
+</p>
+
 <table>
   <tr>
     <td>
