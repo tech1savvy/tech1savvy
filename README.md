@@ -1,6 +1,10 @@
-<p align="center" size="50%">
-  <img src="https://api.boot.dev/v1/users/public/efb43c30-e932-42b9-ba86-3cb91c78709d/thumbnail" >
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/efb43c30-e932-42b9-ba86-3cb91c78709d/thumbnail" 
+       width="300" 
+       alt="User thumbnail">
 </p>
+
+
 
 <table>
   <tr>
