@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.boot.dev/u/tech1savvy"><img src="https://api.boot.dev/v1/users/public/efb43c30-e932-42b9-ba86-3cb91c78709d/thumbnail" width="300" alt="User thumbnail"></a>
+  <a href="https://www.boot.dev/u/tech1savvy" target="_blank" rel="noopener noreferrer"><img src="https://api.boot.dev/v1/users/public/efb43c30-e932-42b9-ba86-3cb91c78709d/thumbnail" width="300" alt="User thumbnail"></a>
 </p>
 
 <a href="https://tech1savvy.me">tech1savvy.me</a>
