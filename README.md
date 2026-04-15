@@ -74,4 +74,13 @@
 </table>
 
 <!--START_SECTION:waka-->
+
+```txt
+Go           6 hrs 8 mins          ████████░░░░░░░░░░░░░░░░░   32.57 %
+Markdown     2 hrs 25 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.85 %
+Nix          2 hrs 12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.71 %
+TeX          1 hr 25 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
+Makefile     1 hr 10 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
+```
+
 <!--END_SECTION:waka-->
