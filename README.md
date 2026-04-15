@@ -22,6 +22,13 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" />
   </li>
+  <li><a href="https://github.com/tech1savvy/homelab">~ ./homelab</a> |
+    <a href="https://nixos.org"><img src="https://img.shields.io/badge/NixOS-0078D7?style=plastic&logo=nixos&logoColor=white" /></a>
+    <img src="https://img.shields.io/badge/k3s-326CE5?style=plastic&logo=k3s&logoColor=white" />
+    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=prometheus&logoColor=white" />
+    <img src="https://img.shields.io/badge/Grafana-F46800?style=plastic&logo=grafana&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white" />
+  </li>
 </ul>
 
 <!--START_SECTION:waka-->
