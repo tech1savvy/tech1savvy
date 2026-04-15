@@ -30,6 +30,7 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/Terraform-7B42BC?style=plastic&logo=terraform&logoColor=white" />
     <img src="https://img.shields.io/badge/Traefik-24A1C1?style=plastic&logo=traefikproxy&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS-FF9900?style=plastic&logo=amazonaws&logoColor=white" />
   </li>
 </ul>
 
