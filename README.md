@@ -4,7 +4,7 @@
        alt="User thumbnail">
 </p>
 
-
+<a href="https://tech1savvy.me">tech1savvy.me</a>
 
 <a href="https://www.linkedin.com/in/a-kay/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
