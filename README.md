@@ -34,18 +34,6 @@
     </td>
   </tr>
 </table>
-<!-- DSA table with LeetCode & GFG badges -->
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/tech1savvy/cpp">~ ./dsa</a>
-    </td>
-    <td>
-      <a href="https://leetcode.com/tech1savvy/"><img src="https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=leetcode&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftech1savvy&logo=leetcode&logoColor=yellow" alt="LeetCode Badge" /></a>
-      <a href="https://www.geeksforgeeks.org/user/tech1savvy/"><img src="https://img.shields.io/badge/4-2F8D46?style=plastic&logo=geeksforgeeks&logoColor=2F8D46&label=gfg" alt="GeeksForGeeks Badge" /></a>
-    </td>
-  </tr>
-</table>
 <!-- Project / KeySensei -->
 <table>
   <tr>
@@ -59,20 +47,6 @@
     </td>
   </tr>
 </table>
-<!-- Project / Markdown Blog Generator -->
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/tech1savvy/markdown-blog-generator">~ ./markdown-blog-generator</a>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=plastic&logo=next.js&logoColor=white" alt="Next.js Badge" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white" alt="TypeScript Badge" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white" alt="Tailwind CSS Badge" />
-    </td>
-  </tr>
-</table>
-
 <!--START_SECTION:waka-->
 
 ```txt
