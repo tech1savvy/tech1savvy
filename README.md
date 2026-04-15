@@ -6,7 +6,7 @@
 
 
 
-<a href="https://www.linkedin.com/in/your-profile">
+<a href="https://www.linkedin.com/in/a-kay/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
 <a href="https://www.youtube.com/channel/your-channel">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white" alt="YouTube Badge" /></a>
