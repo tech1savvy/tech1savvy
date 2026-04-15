@@ -27,13 +27,10 @@
     <img src="https://img.shields.io/badge/k3s-326CE5?style=plastic&logo=k3s&logoColor=white" />
     <img src="https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=prometheus&logoColor=white" />
     <img src="https://img.shields.io/badge/Grafana-F46800?style=plastic&logo=grafana&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/Terraform-7B42BC?style=plastic&logo=terraform&logoColor=white" />
-    <img src="https://img.shields.io/badge/Traefik-24A1C1?style=plastic&logo=traefikproxy&logoColor=white" />
     <img src="https://img.shields.io/badge/AWS-FF9900?style=plastic&logo=amazonwebservices&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=plastic&logo=githubactions&logoColor=white" />
     <img src="https://img.shields.io/badge/Helm-0F1689?style=plastic&logo=helm&logoColor=white" />
-    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=cloudflare&logoColor=white" />
   </li>
 </ul>
 
