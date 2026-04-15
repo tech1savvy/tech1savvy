@@ -12,11 +12,13 @@
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white" alt="YouTube Badge" /></a>
 <hr>
 <a href="https://github.com/tech1savvy/dotfiles">~ ./dotfiles</a>
+
 [![NixOS](https://img.shields.io/badge/NixOS-0078D7?style=plastic&logo=nixos&logoColor=white)](https://nixos.org)
 [![Hyprland](https://img.shields.io/badge/Hyprland-1a1a1a?style=plastic&logo=hyprland&logoColor=white)](https://github.com/hyprwm/Hyprland)
 [![Neovim](https://img.shields.io/badge/Neovim-57A143?style=plastic&logo=neovim&logoColor=white)](https://neovim.io)
 <hr>
 <a href="https://github.com/tech1savvy/key-sensei">~ ./key-sensei</a>
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
