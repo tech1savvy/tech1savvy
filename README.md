@@ -45,4 +45,4 @@ Makefile     1 hr 10 mins          █▓░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<a href="https://wakatime.com/@b0e92a4c-83c9-4c3f-bab3-81441e4e1029"><img src="https://wakatime.com/badge/user/b0e92a4c-83c9-4c3f-bab3-81441e4e1029.svg" alt="Total time coded since Aug 17 2025" /></a>
+all-time: <a href="https://wakatime.com/@b0e92a4c-83c9-4c3f-bab3-81441e4e1029"><img src="https://wakatime.com/badge/user/b0e92a4c-83c9-4c3f-bab3-81441e4e1029.svg" alt="Total time coded since Aug 17 2025" /></a>
