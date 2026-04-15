@@ -31,6 +31,9 @@
     <img src="https://img.shields.io/badge/Terraform-7B42BC?style=plastic&logo=terraform&logoColor=white" />
     <img src="https://img.shields.io/badge/Traefik-24A1C1?style=plastic&logo=traefikproxy&logoColor=white" />
     <img src="https://img.shields.io/badge/AWS-FF9900?style=plastic&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=plastic&logo=githubactions&logoColor=white" />
+    <img src="https://img.shields.io/badge/Helm-0F1689?style=plastic&logo=helm&logoColor=white" />
+    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=cloudflare&logoColor=white" />
   </li>
 </ul>
 
