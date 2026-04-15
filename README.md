@@ -31,7 +31,7 @@
   </li>
 </ul>
 
-### my weekly coding stats
+### 💻 my weekly coding stats ⏱️
 
 <!--START_SECTION:waka-->
 
