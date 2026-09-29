@@ -38,7 +38,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other      36 mins               ███████████░░░░░░░░░░░░░░   44.14 %
+Lua        31 mins               █████████▓░░░░░░░░░░░░░░░   38.55 %
+Nix        13 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.52 %
+Bash       0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+Markdown   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
