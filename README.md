@@ -38,8 +38,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TeX   23 mins               ███████████████████████▓░   94.64 %
-Nix   1 min                 █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
